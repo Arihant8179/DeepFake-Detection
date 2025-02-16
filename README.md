@@ -1,2 +1,2 @@
-# " DeepFake Detection - By SQCC "
+# " DeepFake Detection -By SQCC "
 
